@@ -1,0 +1,10 @@
+spring:
+  rabbitmq:
+    host: ${RABBIT_HOST:localhost}
+    listener:
+      simple:
+        retry: { enabled: true, max-attempts: 3, initial-interval: 2s, multiplier: 3 }
+        default-requeue-rejected: false
+  data:
+    redis:
+      host: ${REDIS_HOST:localhost}
