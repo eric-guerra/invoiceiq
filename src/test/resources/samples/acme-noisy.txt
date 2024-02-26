@@ -1,0 +1,19 @@
+Acme Packaging Supply Co.
+1200 Industrial Blvd, Austin TX 78744
+
+INVOICE
+Invoice No: INV-2O23-O415
+Invoice Date: 04/03/2023
+Due Date: May 3, 2023
+PO Number: PO-77812
+
+Bill To: Retail Co. Distribution Center 4
+
+Description              Qty   Unit Price   Amount
+Corrugated box 12x12      10   $25.00   $250.00
+Packing tape 48mm         40   $3.25   $130.00
+Pallet wrap 18in          20   $40.00   $800.00
+
+Subtotal:      $1,180.00
+Sales Tax (8%): $94.40
+Total Due:     $l,274.4O
